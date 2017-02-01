@@ -1,0 +1,1 @@
+JQUERY Solutions from Mark Myers' textbook "A Smarter way to Learn JQuery"
